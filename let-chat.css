@@ -1,0 +1,30 @@
+#chating
+{
+    width: 100px;
+    height: 100px;
+}
+.logo
+{
+    height: 500px;
+    width: 300px;
+}
+h3{
+    font-size: 20;
+    text-align: center;
+}
+#login_button
+{
+    color:antiquewhite;
+    width:150px;
+}
+html{
+    height: 100%;
+    margin: 0;
+}
+body
+{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    height: 100%;
+    margin: 0;
+   
+}
